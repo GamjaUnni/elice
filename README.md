@@ -1,6 +1,6 @@
 ## 🐰elice - sw track🥕
 
-elice sw track 개발 일지 입니다.<br/>
+elice sw track 개발 일지 입니다.<br/><br/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
